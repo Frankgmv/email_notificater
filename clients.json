@@ -1,0 +1,122 @@
+[
+    {
+        "correo1": "cliente1@empresa.com",
+        "correo2": "contacto1@empresa.com",
+        "nit": "1234567890",
+        "nombre_empresa": "Empresa Uno S.A.",
+        "nombre_gerente": "Carlos Gómez",
+        "correo_gerente": "gerente1@empresa.com"
+    },
+    {
+        "correo1": "cliente2@negocio.com",
+        "correo2": "info2@negocio.com",
+        "nit": "2345678901",
+        "nombre_empresa": "Negocio Dos Ltda.",
+        "nombre_gerente": "Ana Martínez",
+        "correo_gerente": "gerente2@negocio.com"
+    },
+    {
+        "correo1": "cliente3@servicios.com",
+        "correo2": "soporte3@servicios.com",
+        "nit": "3456789012",
+        "nombre_empresa": "Servicios Tres S.R.L.",
+        "nombre_gerente": "Luisa Fernández",
+        "correo_gerente": "gerente3@servicios.com"
+    },
+    {
+        "correo1": "cliente4@tech.com",
+        "correo2": "ventas4@tech.com",
+        "nit": "4567890123",
+        "nombre_empresa": "Tech Solutions Inc.",
+        "nombre_gerente": "Roberto Vargas",
+        "correo_gerente": "gerente4@tech.com"
+    },
+    {
+        "correo1": "cliente5@consultoria.com",
+        "correo2": "admin5@consultoria.com",
+        "nit": "5678901234",
+        "nombre_empresa": "Consultoría Cinco",
+        "nombre_gerente": "Sofía Herrera",
+        "correo_gerente": "gerente5@consultoria.com"
+    },
+    {
+        "correo1": "cliente6@logistica.com",
+        "correo2": "operaciones6@logistica.com",
+        "nit": "6789012345",
+        "nombre_empresa": "Logística Seis S.A.",
+        "nombre_gerente": "Jorge Mendoza",
+        "correo_gerente": "gerente6@logistica.com"
+    },
+    {
+        "correo1": "cliente7@construccion.com",
+        "correo2": "proyectos7@construccion.com",
+        "nit": "7890123456",
+        "nombre_empresa": "Construcciones Siete",
+        "nombre_gerente": "Patricia Núñez",
+        "correo_gerente": "gerente7@construccion.com"
+    },
+    {
+        "correo1": "cliente8@alimentos.com",
+        "correo2": "pedidos8@alimentos.com",
+        "nit": "8901234567",
+        "nombre_empresa": "Alimentos Ocho Ltda.",
+        "nombre_gerente": "Fernando Castro",
+        "correo_gerente": "gerente8@alimentos.com"
+    },
+    {
+        "correo1": "cliente9@textiles.com",
+        "correo2": "diseno9@textiles.com",
+        "nit": "9012345678",
+        "nombre_empresa": "Textiles Nueve S.A.",
+        "nombre_gerente": "Carmen Díaz",
+        "correo_gerente": "gerente9@textiles.com"
+    },
+    {
+        "correo1": "cliente10@farmaceutica.com",
+        "correo2": "laboratorio10@farmaceutica.com",
+        "nit": "0123456789",
+        "nombre_empresa": "Farmacéutica Diez",
+        "nombre_gerente": "Alberto Ruiz",
+        "correo_gerente": "gerente10@farmaceutica.com"
+    },
+    {
+        "correo1": "cliente11@automotriz.com",
+        "correo2": "taller11@automotriz.com",
+        "nit": "1234509876",
+        "nombre_empresa": "Automotriz Once",
+        "nombre_gerente": "Lucía Ortega",
+        "correo_gerente": "gerente11@automotriz.com"
+    },
+    {
+        "correo1": "cliente12@electronica.com",
+        "correo2": "soporte12@electronica.com",
+        "nit": "2345610987",
+        "nombre_empresa": "Electrónica Doce S.A.",
+        "nombre_gerente": "Francisco Guzmán",
+        "correo_gerente": "gerente12@electronica.com"
+    },
+    {
+        "correo1": "cliente13@seguros.com",
+        "correo2": "aseguradora13@seguros.com",
+        "nit": "3456721098",
+        "nombre_empresa": "Seguros Trece",
+        "nombre_gerente": "Diana Romero",
+        "correo_gerente": "gerente13@seguros.com"
+    },
+    {
+        "correo1": "cliente14@bancaria.com",
+        "correo2": "finanzas14@bancaria.com",
+        "nit": "4567832109",
+        "nombre_empresa": "Bancaria Catorce Ltda.",
+        "nombre_gerente": "Arturo Medina",
+        "correo_gerente": "gerente14@bancaria.com"
+    },
+    {
+        "correo1": "cliente15@educacion.com",
+        "correo2": "academico15@educacion.com",
+        "nit": "5678943210",
+        "nombre_empresa": "Educación Quince S.R.L.",
+        "nombre_gerente": "Beatriz Rojas",
+        "correo_gerente": "gerente15@educacion.com"
+    }
+]
