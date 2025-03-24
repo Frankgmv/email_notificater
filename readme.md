@@ -21,6 +21,6 @@ This demo is used by the following companies:
 
 >[!Note]
 >#### Que fata por hacer
-> Crear los formatos HTML que deseas enviar y configurar los parametros que lleva.
-> Cargar los formatos que llevan los datos para guardarlos en la base de datos de django.
-> Ejecutarlo y estar actualizando los clientes que hacen el proceso antes de usarlo nuevamente.
+> - Crear los formatos HTML que deseas enviar y configurar los parametros que lleva.
+> - Cargar los formatos que llevan los datos para guardarlos en la base de datos de django.
+> - Ejecutarlo y estar actualizando los clientes que hacen el proceso antes de usarlo nuevamente.
